@@ -1,0 +1,6 @@
+git is a great tool
+it is use for version control
+it track changes in files
+it is use by many who can together collaborate and work on a single files
+git is the foundation for software development
+it is so lovely working with git.
